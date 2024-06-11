@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A passionate Data Scientist from Ecuador</h3>
 
-- 🔭 I’m currently working on [PF_DATAPT07](https://github.com/LeonardoMoran19/PF_DATAPT07)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeonardoMoran19?tab=repositories](https://github.com/LeonardoMoran19?tab=repositories)
 
