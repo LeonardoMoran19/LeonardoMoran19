@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from Ecuador</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/LeonardoMoran19?tab=repositories](https://github.com/LeonardoMoran19?tab=repositories)
+- 👨‍💻 Feel free to visit my [portfolio](leomleon.netlify.app)
 
 - 📫 How to reach me **leomleon19@gmail.com**
 
