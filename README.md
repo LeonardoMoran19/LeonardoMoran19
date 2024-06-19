@@ -4,15 +4,16 @@
 - 🔭 I’m currently working on [New york taxi trip duration](https://github.com/LeonardoMoran19/new-york-taxi-trip-duration)  
   
 
-- 🌱 I’m currently learning Deep Learning & Neural Networks  
+- 🌱 I’m currently learning Deep Learning & Neural Networks
+  
+- 🎓 Henry Academy Graduate
   
 
-- 💼 I’m currently looking for a job opportunity   
+- 👨‍💻 I’m currently looking for a job opportunity   
   
 
-- ❓ Ask me about anything related to Data Science and Machine Learning models  
-  
-
+- ❓ Ask me about anything related to Data Science and Machine Learning models
+- 💼 Visit my [portfolio](https://leomleon.netlify.app/)
 - ⚡ Fun fact: I'm a CRAZY about Greek mythology.  
   
 
